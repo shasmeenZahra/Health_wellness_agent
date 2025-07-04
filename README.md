@@ -1,4 +1,4 @@
-# faj_health_wellness_agent# 🧘‍♀️ Health & Wellness Planner Agent
+# health_wellness_agent# 🧘‍♀️ Health & Wellness Planner Agent
 
 A fully functional AI-powered Health & Wellness Planner built using the OpenAI Agents SDK and Google Gemini API.
 This agent can analyze user health goals, generate structured plans, and guide users through a personalized fitness and nutrition journey.
